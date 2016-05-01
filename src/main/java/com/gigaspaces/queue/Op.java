@@ -1,6 +1,5 @@
 package com.gigaspaces.queue;
 
-import com.sun.deploy.panel.DeleteFilesDialog;
 
 /**
  * Created by Barak Bar Orion

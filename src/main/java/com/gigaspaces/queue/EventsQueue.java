@@ -18,6 +18,7 @@ public class EventsQueue<T extends Event> implements BlockingQueue<T> {
 
     @Override
     public synchronized T get() throws InterruptedException {
+        return null;
     }
 
     @Override
